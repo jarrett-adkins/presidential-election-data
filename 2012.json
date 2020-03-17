@@ -4,8 +4,7 @@
     "republican": "Romney"
   },
   "votes": [
-    {
-      "state":"ca",
+    "AK": {
       "electoral": {
         "democrat": 0,
         "republican": 3
@@ -16,8 +15,7 @@
         "other": 13179
       }
     },
-     {
-      "state":"ga",
+     "AL": {
       "electoral": {
         "democrat": 0,
         "republican": 9
@@ -28,8 +26,7 @@
         "other": 22717
       }
     },
-    {
-      "state":"al",
+    "AR": {
       "electoral": {
         "democrat": 0,
         "republican": 6
@@ -38,7 +35,6 @@
         "democrat": 394409,
         "republican": 647744,
         "other": 27315
-      }
       }
     ]
 }
