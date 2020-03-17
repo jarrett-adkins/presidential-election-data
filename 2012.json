@@ -3,7 +3,8 @@
     "democrat": "Obama",
     "republican": "Romney"
   },
-  "votes": [
+  "votes": {
+    "votes": {
     "AK": {
       "electoral": {
         "democrat": 0,
@@ -15,7 +16,7 @@
         "other": 13179
       }
     },
-     "AL": {
+    "AL": {
       "electoral": {
         "democrat": 0,
         "republican": 9
@@ -36,5 +37,5 @@
         "republican": 647744,
         "other": 27315
       }
-    ]
+    }
 }
