@@ -4,7 +4,6 @@
     "republican": "Romney"
   },
   "votes": {
-    "votes": {
     "AK": {
       "electoral": {
         "democrat": 0,
@@ -38,4 +37,5 @@
         "other": 27315
       }
     }
+  }
 }
