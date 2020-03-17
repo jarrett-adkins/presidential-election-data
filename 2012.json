@@ -1,0 +1,44 @@
+{
+  "candidates": {
+    "democrat": "Obama",
+    "republican": "Romney"
+  },
+  "votes": [
+    {
+      "state":"ca",
+      "electoral": {
+        "democrat": 0,
+        "republican": 3
+      },
+      "popular": {
+        "democrat": 122640,
+        "republican": 164676,
+        "other": 13179
+      }
+    },
+     {
+      "state":"ga",
+      "electoral": {
+        "democrat": 0,
+        "republican": 9
+      },
+      "popular": {
+        "democrat": 795696,
+        "republican": 1255925,
+        "other": 22717
+      }
+    },
+    {
+      "state":"al",
+      "electoral": {
+        "democrat": 0,
+        "republican": 6
+      },
+      "popular": {
+        "democrat": 394409,
+        "republican": 647744,
+        "other": 27315
+      }
+      }
+    ]
+}
